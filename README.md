@@ -51,14 +51,14 @@ I am a professional **Frontend Developer** with over **4.5 years of experience**
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ranjeet-h&show_icons=true&theme=tokyonight&count_private=true" alt="Ranjeet's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjeet-h&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ranjeet-h&show_icons=true&theme=tokyonight" alt="Ranjeet's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ranjeet-h&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranjeet-h&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranjeet-h&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -69,10 +69,10 @@ I am a professional **Frontend Developer** with over **4.5 years of experience**
   <a href="mailto:ranjeetharishchandre@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/ranjeet-h" target="blank">
+  <a href="https://www.linkedin.com/in/ranjeet-harishchandre-8bab48151/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/ranjeet_h" target="blank">
+  <a href="https://x.com/its_me_ranjeeth" target="blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
