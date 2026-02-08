@@ -3,7 +3,7 @@
   <h3>🚀 Full-Stack Developer | Rust & Blockchain Enthusiast</h3>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Experience-4.5+%20Years-blue?style=for-the-badge&logo=react" alt="Experience">
+    <img src="https://img.shields.io/badge/Experience-5+%20Years-blue?style=for-the-badge&logo=react" alt="Experience">
     <img src="https://img.shields.io/badge/Projects-35+-success?style=for-the-badge&logo=github" alt="Projects">
     <img src="https://img.shields.io/badge/Impact-1M+%20Users-orange?style=for-the-badge&logo=google" alt="Impact">
   </p>
