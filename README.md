@@ -24,7 +24,7 @@
 
 I am a professional **Frontend Developer** with over **5+ years of experience** in building scalable, user-centric applications. My journey spans from complex **Fintech & DeFi** platforms to high-traffic **SaaS** solutions.
 
-- 🔭 Senior Frontend Developer at **Recruiterflow**, impacting **1M+ users** weekly.
+- 🔭 Software Engineer at **Reveal**.
 - 🦀 Passionate about **Rust** and its ecosystem (P2P, Wasm, Systems).
 - � Exploring **Flutter & Dart** for cross-platform excellence.
 - ⚡ Fun fact: I've upgraded legacy stacks to 100% uptime and zero bugs.
